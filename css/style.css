@@ -501,10 +501,24 @@ body {
   margin-right: 12px;
 }
 
+.concuria {
+  background-image: url(../img/concuria.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .figma {
   background-image: url(../img/figma.png);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
+}
+
+.art-design {
+  background-image: url(../img/art-design.png);
+  background-repeat: no-repeat;
+  background-position: center left;
   background-size: cover;
 }
 
